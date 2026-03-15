@@ -5,6 +5,7 @@ This add-on allows the user to automatically generate lenticular prints (those r
 
 To install, download the .ZIP and activate it in Blender: Edit -> Preferences -> Get Extensions -> Install From Disk.
 Once installed, activate the add-on from Edit -> Preferences -> Add-ons -> Lenticular
+Note: If installation gives an error, run Blender with administrator privileges.
 
 Upon installation, an n-menu sidebard called 'Lenticular' is added. The workflow from here is as follows:
  - Press 'Load images' to select two images of identical resolution.
