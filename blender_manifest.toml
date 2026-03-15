@@ -1,9 +1,9 @@
-schema_version = "1.1.0"
+schema_version = "1.0.0"
 
-id = "Lenticular_Printing"
+id = "lenticular"
 version = "1.1.0"
-name = "Lenticular Printing"
-tagline = "A lenticular image and geometry generator"
+name = "Lenticular"
+tagline = "Combine multiple images into a lenticular print"
 maintainer = "Wout Verswijveren <wwmverswijveren@proton.me>"
 type = "add-on"
 
@@ -12,5 +12,5 @@ blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
 
 # Optional metadata
-# website = "https://your-website.com"
+website = "ko-fi.com/tonymurchison"
 # tags = ["3D View", "Object"]
